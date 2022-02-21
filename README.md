@@ -7,9 +7,9 @@
 ## Team Members
 
 - Jagdeep Brar: A data science student who loves cooking and painting in free time!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
-- Person 4: one sentence about you!
+- Saisree GR: one sentence about you!
+- Song Zhang: one sentence about you!
+- Roger Wheeler: one sentence about you!
 
 ## Describe your topic/interest in about 150-200 words
 
