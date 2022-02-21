@@ -7,7 +7,7 @@
 ## Team Members
 
 - Jagdeep Brar: A data science student who loves cooking and painting in free time!
-- Saisree GR: one sentence about you!
+- Saisree GR: An ethusiastic nerd who loves data science, hot chocolate and reading books :)
 - Song Zhang: one sentence about you!
 - Roger Wheeler: one sentence about you!
 
