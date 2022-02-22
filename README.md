@@ -1,4 +1,4 @@
-# BC Surgical Wait Times Dashboard(Group D)
+# BC Surgical Wait Times Dashboard (Group D)
 
 - This dashoard will demonstrate the total waiting and completed surgical cases across the health authorities and hospitals.
 - It will also display the efficiency of different health authorities of BC and the wait time of different procedures will also be demonstrated.
