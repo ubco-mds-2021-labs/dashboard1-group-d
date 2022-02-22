@@ -7,7 +7,7 @@
 ## Team Members
 
 - Jagdeep Brar: A data science student who loves cooking and painting in free time!
-- Saisree GR: An ethusiastic student and researcher who loves data science, hot chocolate and reading books ☕
+- Saisree GR: An ethusiastic student and researcher who loves data science, hot chocolate and reading books 🤓
 - Song Zhang: one sentence about you!
 - Roger Wheeler: A Chartered Professional in Human Resources (CPHR) with a strong interest in analytics.
 
