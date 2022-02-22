@@ -17,9 +17,7 @@ Long waiting times is an important issue for health services in Canada, and the 
 
 ## About this Dashboard
 
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+<img src ="images/Visualization-milestone1.png" width="100px">
 
 Ideally, you'd include a 5-7 second gif of your final dashboard.
 
