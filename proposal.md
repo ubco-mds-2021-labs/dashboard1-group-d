@@ -47,7 +47,7 @@ The dataset provides BC surgical data on a quarterly basis. The waiting column c
 
 **Research Questions**
 
-Health literature repeatedly demonstrates that prolonged surgical wait-times are detrimental to patient health. [[2]("https://www.policyalternatives.ca/sites/default/files/uploads/publications/BC%20Office/2016/04/ccpa-bc_ReducingSurgicalWaitTimes_summary.pdf")], [[3]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1959190/")]  It follows that having reduced wait-lists and increased efficiency is associated with reduced wait-times and improved health outcomes.[[4]("https://pubmed.ncbi.nlm.nih.gov/27603225/")]  To explore these concepts further there are some research questions that the dashboard visulatizations will be able to answer:
+Health literature repeatedly demonstrates that prolonged surgical wait-times are detrimental to patient health. [[5]("https://www.policyalternatives.ca/sites/default/files/uploads/publications/BC%20Office/2016/04/ccpa-bc_ReducingSurgicalWaitTimes_summary.pdf")], [[6]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1959190/")]  It follows that having reduced wait-lists and increased efficiency is associated with reduced wait-times and improved health outcomes.[[7]("https://pubmed.ncbi.nlm.nih.gov/27603225/")]  To explore these concepts further there are some research questions that the dashboard visulatizations will be able to answer:
 
 1. Are there any trends in wait-list and efficiency numbers throughout the year, across years or across health authorities?
 
@@ -55,9 +55,9 @@ Health literature repeatedly demonstrates that prolonged surgical wait-times are
 
 3. What are the differences in wait-times between procedure groups? 
 
-4. Are there any procedure group that are not being completed in a timely manner? There are international maximum wait-time guidelines set for many surgical procedures [[5]("https://www2.gov.bc.ca/gov/content/health/accessing-health-care/surgical-wait-times")]. 
+4. Are there any procedure group that are not being completed in a timely manner? There are international maximum wait-time guidelines set for many surgical procedures [[8]("https://www2.gov.bc.ca/gov/content/health/accessing-health-care/surgical-wait-times")]. 
 
-5. Are there any variations within this surgical data that may be associated with the pandemic? Covid has resulted in public health restrictions for society and the healthcare system. [[6]]("https://bc.ctvnews.ca/scroll-through-this-timeline-of-the-1st-year-of-covid-19-in-b-c-1.5284929"). 
+5. Are there any variations within this surgical data that may be associated with the pandemic? Covid has resulted in public health restrictions for society and the healthcare system. [[9]]("https://bc.ctvnews.ca/scroll-through-this-timeline-of-the-1st-year-of-covid-19-in-b-c-1.5284929"). 
 
 
 **Usage Scenario**
