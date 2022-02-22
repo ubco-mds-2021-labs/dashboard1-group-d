@@ -17,7 +17,7 @@ Long waiting times is an important issue for health services in Canada, and the 
 
 ## About this Dashboard
 
-<img src ="images/Visualization-milestone1.png" width="1000px" height="1000px">
+<img src ="images/Visualization-milestone1.png" width="800px" height="600px">
 
 The app opens a dashboard that shows the information about surgical waiting times in the province of British Columbia, Canada. Users can select health authorities of BC from the buttons (eg, Northern, Interior, Vancouver Island, Vancouver Coastal etc.) and years from the slider which will update the 4 charts (proportion of completed cases, BC health authority map, Fastest/Slowest treated procedures, total waiting and completed cases of a hospital ) and information cards accordingly. The proportion of completed cases chart shows quarterly distribution of completed cases of all health authorities based on the selected years. The BC health authority map highlights the selected health authority. The fastest/slowest treated procedures chart has the option to select between fastest and slowest radio buttons. The total waiting and completed cases of a hospital has a dropdown menu of different hospitals based on the selected health authority.
 
