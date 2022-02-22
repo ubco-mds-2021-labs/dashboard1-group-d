@@ -1,7 +1,7 @@
 # BC Surgical Wait Times (Group D)
 
-- This dashoard will demonstarte the total waiting and completd surgical cases across the health authorities and hospitals.
-- It will also display the efficiency of different health authorities of BC and the wait time of different procedures will also be demonstarted.
+- This dashoard will demonstrate the total waiting and completed surgical cases across the health authorities and hospitals.
+- It will also display the efficiency of different health authorities of BC and the wait time of different procedures will also be demonstrated.
 - Alongside, it will enable the user to observe the impact of pandemic on the efficiency of health authorities or procedures.
 
 ## Team Members
@@ -9,7 +9,7 @@
 - Jagdeep Brar: A data science student who loves cooking and painting in free time!
 - Saisree GR: An ethusiastic nerd who loves data science, hot chocolate and reading books :)
 - Song Zhang: one sentence about you!
-- Roger Wheeler: one sentence about you!
+- Roger Wheeler: A Chartered Professional in Human Resources (CPHR) with a strong interest in analytics.
 
 ## Describe your topic/interest in about 150-200 words
 
