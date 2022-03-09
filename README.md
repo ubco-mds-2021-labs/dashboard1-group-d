@@ -25,7 +25,7 @@ This document (the README file) is going to give you an overview of our project.
 - Song Zhang: An analytical, dependable, and responsible person.
 - Roger Wheeler: A Chartered Professional in Human Resources (CPHR) with a strong interest in analytics.
 
-Links to deploy our app: <font color=red>(links to be added)</font>
+Links to deploy our app: **links to be added**
     
 Jagdeep - [BC Surgical Wait Times Dashboard](https://BC Surgical Wait Times Dashboard.herokuapp.com/)    
     
@@ -80,7 +80,7 @@ You can also observe the impact of pandemic on the surgical efficiency of health
 
 The app opens a dashboard that shows the information about surgical waiting times in the province of British Columbia, Canada. Users can select health authorities of BC from the buttons (eg, Northern, Interior, Vancouver Island, Vancouver Coastal etc.) and years from the slider which will update the 4 charts (proportion of completed cases, BC health authority map, Fastest/Slowest treated procedures, total waiting and completed cases of a hospital) and information cards accordingly. The proportion of completed cases chart shows quarterly distribution of completed cases of all health authorities based on the selected years. The BC health authority map highlights the geography of the selected health authority. The fastest/slowest treated procedures chart has the option to select between fastest and slowest radio buttons. The total waiting and completed cases of a hospital has a dropdown menu of different hospitals based on the selected health authority.
 
-<font color=red>(dashboard GIF can be added here)</font>
+**dashboard GIF can be added here**
 
 ### How can you get involved?
 
