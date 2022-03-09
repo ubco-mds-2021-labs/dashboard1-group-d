@@ -26,8 +26,9 @@ Group D is generally pleased with how the dashboard is coming together, and the 
     - health authority efficiency comparison
     - a map to aid the user in connecting the data to the geographic location
 
-Group D believes that this dashboard maximizes the use of the surgical dataset, and minimizes user difficulty in accessing the data of interest.  We are satisfied with the aesthetics (look & feel), although we do plan some improvements (i.e. beautification of existing elements). 
-
-Possible additions to the dashboard could include:
+### Possible additions to the dashboard could include:
 - a button that would produce a pdf output (i.e. snapshot of the dashboard) for the user to download
-- a slider that had a finer scale adjustment (i.e. quarterly, not just annual) in order to fine-tune the analysis
+- a slider that had a finer scale adjustment (i.e. quarterly, not just annual)
+- an interactive map that replaces the health authority radio button (i.e. click on area to select HA)
+
+Final comments: Group D believes that this dashboard maximizes the use of the surgical dataset, and minimizes user difficulty in accessing the data of interest.  We are generally satisfied with the aesthetics (look & feel) but we do plan several cosmetic improvements (i.e. beautification of existing elements). 
